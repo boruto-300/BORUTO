@@ -32,6 +32,8 @@ a.btn--green.btn--cubic:hover {
 .footer {background-color:#296fb4;
   height: 50px;
   color:white;
+  margin: 0px;
+  padding: 0px;
   
 }
 div.header ui.header-list li {padding-left: 50px;font-size: large;}
