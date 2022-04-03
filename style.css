@@ -39,3 +39,6 @@ a.btn--green.btn--cubic:hover {
 }
 div.header ui.header-list li {padding-left: 50px;font-size: large;}
 div.contents form{padding-top: 20px;}
+.header div h1 {
+  margin: 0px;
+}
