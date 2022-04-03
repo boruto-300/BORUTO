@@ -1,9 +1,10 @@
 .header{background-color: cornflowerblue;
-    height: 100px;}
+    height: 100px;
+    margin: 0px;
+    padding: 0px;}
 li {list-style:none;
   float:left;
-  margin: 0px;
-  padding: 0px;}
+  }
 
 /*ボタン*/
 a.btn--green.btn--emboss {
